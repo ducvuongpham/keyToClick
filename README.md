@@ -16,7 +16,7 @@ Programed by Phạm Đức Vượng in AHK
 
 *******************************************************************
 
-                                                               INTRUCTIONS
+  INTRUCTIONS
 1. Select Mouse Button, Count and Hotkey 
     (Tick the WinKey box to use Winkey)
 2. Move the mouse pointer to the position need to click
